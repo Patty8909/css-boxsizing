@@ -1,0 +1,16 @@
+div {
+    display: block;
+    padding: 50px;
+    margin: 10px;
+    background-color: #ffc107;
+    width: 200px;
+
+}
+
+.color {
+    background-color: black;
+}
+
+.col {
+    color: white;
+}
